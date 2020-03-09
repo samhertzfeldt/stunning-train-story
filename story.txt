@@ -2,3 +2,9 @@ Character: Jim the hacker man, who is real sad cause he's lonely even though he'
 catching bad guys left and right
 Setting: FBI headquarters, NY city. Jim grew up always wanting to be an FBI badass, 
 but now that he is he has no love life and is really sad. He goes to and from work all sad, just hoping to find love someday.
+
+One day, Jim the hacker man was working at the FBI headquarters in NY city when
+he learned of a special, classified case assigned to him alone. He began to 
+research information on the case and eventually, as he uncovered more and more
+details, he realized that the criminal was someone he knew. In fact, it was a
+girl he knew from his childhood.
